@@ -1,0 +1,59 @@
+{
+  "company": [
+    {
+      "id": "1",
+      "firstname": "NT Infotech ",
+      "lastname": "sam",
+      "middlename": "trai",
+      "birthday": "031898",
+      "gender": "female",
+      "address": "quezon",
+      "mobilenumber": "09770452845",
+      "jobtitle": "pts1"
+    },
+    {
+      "id": "2",
+      "firstname": "ABC Ltd",
+      "lastname": "sam",
+      "middlename": "trai",
+      "birthday": "031898",
+      "gender": "female",
+      "address": "quezon",
+      "mobilenumber": "09770452845",
+      "jobtitle": "pts1"
+    },
+    {
+      "id": "3",
+      "firstname": "Dr.TNR Infotech",
+      "lastname": "sam",
+      "middlename": "trai",
+      "birthday": "031898",
+      "gender": "male",
+      "address": "quezon",
+      "mobilenumber": "09770452845",
+      "jobtitle": "pts1"
+    },
+    {
+      "id": "0",
+      "firstname": "sdvsfb",
+      "lastname": "dvsdv",
+      "middlename": "sdvsdv",
+      "birthday": "dsvsd",
+      "gender": "svdsvsdvdsv",
+      "address": "sdvsdv",
+      "mobilenumber": "vdsvsd",
+      "jobtitle": "sdvsdvsd"
+    },
+    {
+      "id": 0,
+      "firstname": "sa",
+      "lastname": "acdvd",
+      "middlename": "avddavd",
+      "birthday": "aavdav",
+      "gender": "vadvadv",
+      "address": "advadvda",
+      "mobilenumber": "avdadv",
+      "jobtitle": "aadvadv"
+    }
+  ]
+}
